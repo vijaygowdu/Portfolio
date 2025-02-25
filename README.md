@@ -6,10 +6,10 @@ To create a Portfolio using HTML and CSS.
 
 ## ALGORITHM
 ### STEP 1
-Create a Django-admin Interface.
+Create an HTML file (index.html)
 
 ### STEP 2
-Create a static folder in the APP and write the HTML code.
+Create a CSS file (style.css)
 
 ### STEP 3
 Include a navigation bar with links to different sections.
@@ -36,30 +36,15 @@ Add Images and Media.
 Use optimized images for a professional look.
 
 ### STEP 11
-Add CSS media queries for responsiveness.
-
-### STEP 12
-Make It Responsive.
-
-### STEP 13
-Use relative units like %, em, and rem.
-
-### STEP 14
-Apply media queries to adjust styles for different screen sizes.
-
-### STEP 15
-Test the program using runserver command.
-
-### STEP 16
 Open the HTML file in a browser to check layout and functionality.
 
-### STEP 17
+### STEP 12
 Fix styling issues and refine content placement.
 
-### STEP 18
+### STEP 13
 Deploy the Portfolio.
 
-### STEP 19
+### STEP 14
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
