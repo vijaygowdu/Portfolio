@@ -1,5 +1,5 @@
 # Ex01 Portfolio
-## Date:
+## Date:15/03/2025
 
 ## AIM
 To create a Portfolio using HTML and CSS.
@@ -48,10 +48,77 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
+## Index.html
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="c:\Users\admin\Desktop\vijay.jpg" alt="My Profile Picture" class="profile-pic">
+        <h1>VIJAY K</h1>
+        <p>Aspiring Web Developer | Passionate Learner</p>
+    </header>
 
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I am a student learning web development.</p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            
+            <li>Project 1 - A portfolio page</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h2>Contact Me</h2>
+        <p>Email: vijay@example.com</p>
+    </footer>
+</body>
+</html>
+```
+## style.css
+```
+ body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+The program for creating Portfolio using HTML and CSS is executed successfully.
+    padding: 20px;
+ }
+ .profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #141010;
+ }
+ h1 {
+    color: #333;
+ }
+ section {
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(246, 22, 22);
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+ }
+```
 
 ## OUTPUT
 
+![vijay](https://github.com/user-attachments/assets/511bda20-df97-4f99-853e-00c16b335216)
+
+
 
 ## RESULT
+
 The program for creating Portfolio using HTML and CSS is executed successfully.
