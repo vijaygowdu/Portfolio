@@ -1,5 +1,4 @@
 # Ex01 Portfolio
-## Date:17/03/2025
 ## Name: Vijay K
 ## Reg:212223040234
 
